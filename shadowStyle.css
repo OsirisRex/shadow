@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Caveat|Lobster|Ubuntu+Mono');
+h1{
+  text-align: center;
+  color: #71323e;
+  font-family: 'Lobster', cursive;
+  font-size: 80px;
+}
+body{
+  background-color: #dec3ae;
+}
+img{
+  border-radius: 75px;
+  width:429px;
+}
+h2{
+  font-family: 'Ubuntu Mono', monospace;
+  color: #a57a6d;
+  font-size: 40px;
+}
+table{
+  margin-left: 15%;
+  margin-right: 15%;
+}
+td{
+  padding: 15px;
+}
+p{
+  background-color: #efe4d9;
+  padding: 20px;
+  border-radius: 30px;
+  font-family: 'Caveat';
+  font-size: 20px;
+}
